@@ -1,5 +1,5 @@
 # LeapZombie
-2023-2 HandTracking Zombie Shooting Game / Unity 2022.3.12f1
+2023-2 HandTracking Zombie Shooting Game Using LeapMotion / Unity 2022.3.12f1
 
 1. 프로젝트 소개
 - Leap motion을 사용한 핸드 트래킹 게임 (Hand Tracking Game)
