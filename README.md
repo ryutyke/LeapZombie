@@ -1,7 +1,7 @@
 # LeapZombie
 2023-2 HandTracking Zombie Shooting Game Using LeapMotion / Unity 2022.3.12f1
 
-Release에서 게임 파일 다운 받을 수 있습니다. LeapMotion 장비 연결해야 플레이 가능합니다.
+Release에서 게임 파일 다운 받을 수 있습니다. LeapMotion 장비 연결해야 플레이 가능합니다. 
 Playing Demo Video Link : https://youtu.be/QjRFuAHs78c?si=fYcNKeV8NuOOMhjQ
 
 1. 프로젝트 소개
